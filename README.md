@@ -3,7 +3,7 @@ README
 
 Required
 --------
-- Node.js
+- Node.js or NPM
 - Gulp: `npm install -g gulp`
 - Browsersync: `npm install -g browser-sync`
 

@@ -57,7 +57,8 @@ gulp.task('sass', function() {
 gulp.task('serve', ['sass'], function() {
 
     browserSync.init({
-        server: "../"
+        server: "../",
+        https: true
         //directory: true
     });
 
